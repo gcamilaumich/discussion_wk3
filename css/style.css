@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(188, 222, 233);
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 3%;
+}
+h1, h2{
+    font-weight: bold;
+    color: rgb(117, 0, 117);
+    background-color: lightpink;
+}
+img{
+    /* width: 25% */
+    max-width: 200px;
+    height: auto;
+    margin: auto /* to center */;
+    border: 5px coral solid;
+}
